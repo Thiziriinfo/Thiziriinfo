@@ -1,6 +1,6 @@
 # Bonjour, je suis Thiziri 👋
 
-**Data Analyst — BI & Machine Learning** · Paris · 3 ans d'expérience (télécom, énergie)
+**Data Analyst — BI & Machine Learning** ·
 
 Je transforme des données brutes en décisions métier : pipelines de données,
 modèles prédictifs en production, et dashboards que les décideurs utilisent vraiment.
