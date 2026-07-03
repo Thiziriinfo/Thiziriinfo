@@ -23,4 +23,4 @@ modèles prédictifs en production, et dashboards que les décideurs utilisent v
 
 ## 📫 Contact
 
-[Portfolio](https://thiziriinfo.github.io) · [LinkedIn](https://linkedin.com/in/thiziriabchiche) · thiziri.abchiche@gmail.com
+[Portfolio](https://thiziriinfo.github.io) · [LinkedIn](https://linkedin.com/in/thiziri-abchiche) · thiziri.abchiche@gmail.com
