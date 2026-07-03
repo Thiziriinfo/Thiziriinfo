@@ -1,16 +1,26 @@
-## Hi there 👋
+# Bonjour, je suis Thiziri 👋
 
-<!--
-**Thiziriinfo/Thiziriinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst — BI & Machine Learning** · Paris · 3 ans d'expérience (télécom, énergie)
 
-Here are some ideas to get you started:
+Je transforme des données brutes en décisions métier : pipelines de données,
+modèles prédictifs en production, et dashboards que les décideurs utilisent vraiment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 **Ouverte aux opportunités** — CDI ou mission freelance, démarrage immédiat.
+
+## 🚀 Mes projets
+
+| Projet | Description | Stack | Démo |
+|---|---|---|---|
+| [Détection de Fraude Bancaire](https://github.com/Thiziriinfo/Fraud-Risk-Scoring-System) | Pipeline ML complet sur 24M+ transactions — LightGBM, AUC 0.99, recall 94%, API FastAPI | Python · LightGBM · FastAPI · Streamlit | [Live ↗](https://fraud-risk-scoring-system.streamlit.app/) |
+| [Immobilier Paris 2023](https://github.com/Thiziriinfo/Analyse-Immobilier-Paris-2023) | 30 000+ transactions DVF — carte interactive, simulateur d'investissement, explorateur SQL | Python · Plotly · Streamlit · SQL | [Live ↗](https://analyse-immobilier-paris-2023-q8bg29uahcojkerqbstyxu.streamlit.app/) |
+| [Santé Mentale au Travail](https://github.com/Thiziriinfo/Mental-Health-Dashboard) | Analyse mondiale burnout (9 pays, 2019-2024) — simulateur ROI prévention, SQL avancé | Python · Streamlit · SQLite | [Live ↗](https://mental-health-work-dashboard.streamlit.app) |
+
+## 🛠️ Stack
+
+**Data & ML** : Python (pandas, scikit-learn), SQL avancé (CTEs, window functions), R
+**BI** : Power BI (DAX), Tableau, Streamlit, Excel avancé
+**Cloud & Engineering** : BigQuery, Snowflake, Airflow, FastAPI, Git
+
+## 📫 Contact
+
+[Portfolio](https://thiziriinfo.github.io) · [LinkedIn](https://linkedin.com/in/thiziriabchiche) · thiziri.abchiche@gmail.com
